@@ -1,7 +1,7 @@
 -- ============================================================
 --   TELECOM CDR ANALYTICS PLATFORM
 --   Snowflake SQL Scripts
---   Author: Bismaya Ranjan Sahoo
+--   Author: Bismaya Ranjan Sahoo , Chandan Sahoo
 --   Date: February 2026
 -- ============================================================
 
