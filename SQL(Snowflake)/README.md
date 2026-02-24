@@ -37,13 +37,14 @@ This folder contains all Snowflake SQL scripts for the **Telecom CDR Analytics P
 
 ## Database Structure
 
+'''
 TELECOM_DWH/
 │
 ├── STAGING/ Raw CDR data (STG_CDR, CDR_JSON)
 ├── DWH/ Star schema (FACT_CDR + 5 dimensions)
 ├── ANALYTICS/ Secure views for reporting
 └── STREAMING/ Real-time streaming data
-
+'''
 
 ---
 
